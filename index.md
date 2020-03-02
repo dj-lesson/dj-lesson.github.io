@@ -1,10 +1,10 @@
 ## DJ LESSON
 
-Hi! I'm AnDJ (Junduo Dong, andj4cn@gmail.com), a cs lover.
+Hi! I'm AnDJ (Junduo Dong), a cs lover.
 
 This Organization has stored my assignments or notes of some "excellent" public lessons. By the way i could record and share my ideas with others.
 
-If infringement, please contact me(andj4cn@gmail.com or an_dj@outlook.com) to delete.
+If infringement, please contact me (andj4cn@gmail.com) to delete.
 
 ### CONTENT
 
