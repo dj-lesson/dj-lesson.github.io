@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## DJ LESSON
 
-You can use the [editor on GitHub](https://github.com/DJ-LESSON/DJ-LESSON.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I'm AnDJ (Junduo Dong, andj4cn@gmail.com), a cs lover.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This Organization has stored my assignments or notes of some "excellent" public lessons. By the way i could record and share my ideas with others.
 
-### Markdown
+If infringement, please contact me(andj4cn@gmail.com or an_dj@outlook.com) to delete.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### CONTENT
 
-```markdown
-Syntax highlighted code block
+There are open lessons follow:
 
-# Header 1
-## Header 2
-### Header 3
+* [uc berkeley ee122](https://github.com/DJ-LESSON/UCB-EE122)
+* [mit 6.837](https://github.com/DJ-LESSON/MIT-6.837)
+* [stanford cs143](https://github.com/DJ-LESSON/STANFORD-CS143)
 
-- Bulleted
-- List
+also some assignments from my undergraduate lessons:
 
-1. Numbered
-2. List
+* [ugs compiler](https://github.com/DJ-LESSON/UGS-COMPILER)
+* [ugs computer structure](https://github.com/DJ-LESSON/UGS-PC-STRUCTURE)
 
-**Bold** and _Italic_ and `Code` text
+### ABOUT MYSELF
 
-[Link](url) and ![Image](src)
-```
+[personal main page](https://an-dj.github.io/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### LICENSE
 
-### Jekyll Themes
+    MIT License
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DJ-LESSON/DJ-LESSON.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    Copyright (c) 2020 AnDJ
 
-### Support or Contact
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
