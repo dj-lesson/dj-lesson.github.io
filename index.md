@@ -13,6 +13,7 @@ There are open lessons follow:
 * [uc berkeley ee122](https://github.com/DJ-LESSON/UCB-EE122)
 * [mit 6.837](https://github.com/DJ-LESSON/MIT-6.837)
 * [stanford cs143](https://github.com/DJ-LESSON/STANFORD-CS143)
+* [cmu 15445](https://github.com/DJ-LESSON/CMU-15445)
 
 also some assignments from my undergraduate lessons:
 
